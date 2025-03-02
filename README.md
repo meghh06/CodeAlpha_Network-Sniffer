@@ -71,5 +71,5 @@ sniff(prn=packet_callback, count=10)  # Capture 10 packets
 
 ---
 
-💡 *Have ideas for improvement? Feel free to contribute!*
+
 
