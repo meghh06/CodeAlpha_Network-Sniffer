@@ -62,6 +62,12 @@ print("Sniffing network traffic... Press Ctrl+C to stop.")
 sniff(prn=packet_callback, count=10)  # Capture 10 packets
 ```
 
+📸 Output
+
+Below is a sample output from the network sniffer:
+![image](https://github.com/user-attachments/assets/b6808a9e-c241-415b-a179-28f1aa89fb5a)
+
+
 ## 🚀 Future Enhancements
 
 🔹 Add protocol filtering (TCP, UDP, HTTP)\
@@ -70,6 +76,7 @@ sniff(prn=packet_callback, count=10)  # Capture 10 packets
 🔹 Advanced packet analysis for cybersecurity research
 
 ---
+
 
 
 
