@@ -14,8 +14,8 @@ By analyzing captured packets, users can gain insights into network behavior, de
 ## 🛠 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/NetworkSniffer.git
-   cd NetworkSniffer
+  [ git clone https://github.com/USERNAME/NetworkSniffer.git
+   cd NetworkSniffer](https://github.com/meghh06/CodeAlpha_Network-Sniffer.git)
    ```
 2. Install dependencies:
    ```bash
